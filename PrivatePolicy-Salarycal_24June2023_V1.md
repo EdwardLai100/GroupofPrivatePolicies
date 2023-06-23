@@ -49,7 +49,7 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 **Children’s Privacy**
 
-These Services do not address anyone under the age of 15. I do not knowingly collect personally identifiable information from children under 13 years of age. There will be no case that a child under 15 can provide me with personal information. If you are a parent or guardian and you are aware that your child is using this app, please be advised to avoid using or remove the app. Please contact me so that I will be able to do the necessary actions.
+These Services do not address anyone under the age of 15. I do not knowingly collect personally identifiable information from children under 15 years of age. There will be no case that a child under 15 can provide me with personal information. If you are a parent or guardian and you are aware that your child is using this app, please be advised to avoid using or remove the app. Please contact me so that I will be able to do the necessary actions.
 
 **Changes to This Privacy Policy**
 
